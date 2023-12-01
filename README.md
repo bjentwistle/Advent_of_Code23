@@ -7,4 +7,3 @@ Annual coding fun - join in [Advent of Code](https://adventofcode.com/)
   🎄🎄🎄
  🎄🎄🎄🎄
 🎄🎄🎄🎄🎄
-    |
