@@ -1,5 +1,5 @@
 # Test data
-# testData = ["1abc2", "pqr3stu8vwx", "a1b2c3d4e5f","treb7uchet"]
+# testData = ["two1nine","eightwothree","abcone2threexyz","xtwone3four","4nineeightseven2","zoneight234","7pqrstsixteen"]
 
 file = open("advent_day1.txt", "r")
 content=file.readlines()
@@ -46,7 +46,7 @@ print(total)
 
 # Test to check testData
 # actual = total
-# expected = 142
+# expected = 281
 # if  actual == expected:
 #   print("Test passed")
 # else:
