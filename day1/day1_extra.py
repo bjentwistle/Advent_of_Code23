@@ -1,9 +1,9 @@
 # Test data
 # testData = ["two1nine","eightwothree","abcone2threexyz","xtwone3four","4nineeightseven2","zoneight234","7pqrstsixteen"]
 
-file = open("advent_day1.txt", "r")
-content=file.readlines()
-file.close()
+# file = open("advent_day1.txt", "r")
+# content=file.readlines()
+# file.close()
 
 def remove_characters(array):
     data = []
@@ -12,8 +12,8 @@ def remove_characters(array):
         data.append(newWord)
     return data
 
-data = remove_characters(content)
-# data = remove_characters(testData)
+#data = remove_characters(content)
+data = remove_characters(testData)
 
 def find_digits(array):
     digits = []
